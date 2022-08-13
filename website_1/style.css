@@ -21,7 +21,7 @@ body{
     padding: 5px;
 }
 
-.login_form
+.form_design
 {
   margin: auto;
   width: 30%; 
@@ -30,7 +30,7 @@ body{
   border-radius: 25px;
 }
 
-.login_form h1
+.form_design h1
 {
     text-align: center;
     color: white;
